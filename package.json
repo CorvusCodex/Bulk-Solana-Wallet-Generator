@@ -1,0 +1,29 @@
+{
+  "name": "bulk-solana-wallet-generator",
+  "version": "1.4.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorvusCodex/Bulk-Solana-Wallet-Generator.git"
+  },
+  "keywords": [
+    "solana"
+  ],
+  "author": "CorvusCodex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CorvusCodex/Bulk-Solana-Wallet-Generator/issues"
+  },
+  "homepage": "https://github.com/CorvusCodex/Bulk-Solana-Wallet-Generator#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.76.0",
+    "coinkey": "^3.0.0",
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "readline": "^1.3.0"
+  }
+}
